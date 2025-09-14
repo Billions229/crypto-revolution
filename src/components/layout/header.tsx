@@ -33,7 +33,7 @@ export function Header() {
       <div className="container mx-auto flex h-16 max-w-7xl items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2 font-headline text-lg font-bold">
           <Coins className="h-6 w-6 text-primary" />
-          <span>Romaric Crypto Academy</span>
+          <span>Crypto  Rovolution Academy</span>
         </Link>
 
         <nav className="hidden items-center gap-6 md:flex">
@@ -67,7 +67,7 @@ export function Header() {
               <div className="flex h-full flex-col p-6 pt-0">
                 <Link href="/" className="mb-8 flex items-center gap-2 font-headline text-lg font-bold" onClick={() => setMobileMenuOpen(false)}>
                   <Coins className="h-6 w-6 text-primary" />
-                  <span>Romaric Crypto Academy</span>
+                  <span>Crypto  Rovolution Academy</span>
                 </Link>
                 <nav className="flex flex-col gap-6">
                   {navItems.map((item) => (

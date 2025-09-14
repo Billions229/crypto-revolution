@@ -35,7 +35,7 @@ export const translations = {
       ],
       testimonialsTitle: "Ce que dit notre communauté",
       testimonials: [
-        { name: "Jean-Eudes de Cotonou", handle: "@jean.eudes", quote: "Grâce à Coach Romaric, j'ai multiplié mon investissement sur Solana ! Ses analyses sont pures. 💰", imageId: "user1" },
+        { name: "Jean-Eudes de Cotonou", handle: "@jean.eudes", quote: "Grâce à Coach Romaric, j'ai multiplié mon investissement sur Solana ! Ses analyses sont pures. ", imageId: "user1" },
         { name: "Aïcha de Lomé", handle: "@aicha.crypto", quote: "La formation sur le holding m'a ouvert les yeux. Je ne FOMO plus et mon portefeuille est enfin vert.", imageId: "user2" },
         { name: "Kevin d'Abidjan", handle: "@kevin.invest", quote: "Le groupe Telegram est une mine d'or. Les alertes sur les pépites sont incroyables.", imageId: "user3" },
       ],
@@ -152,7 +152,7 @@ export const translations = {
     community: {
       title: "Rejoignez la Communauté Premium",
       subtitle: "Accédez à l'élite de l'information crypto.",
-      description: "Rejoignez mes canaux Telegram exclusifs pour des analyses en direct, des alertes sur des projets explosifs (potentiel x50+ sur Solana/ETH), et des 'calls' qui ont déjà fait x100 par le passé ! 💰",
+      description: "Rejoignez mes canaux Telegram exclusifs pour des analyses en direct, des alertes sur des projets explosifs (potentiel x50+ sur Solana/ETH), et des 'calls' qui ont déjà fait x100 par le passé ! ",
       pricing: {
         title: "Tarification",
         price: "$50",
@@ -249,7 +249,7 @@ export const translations = {
       ],
       testimonialsTitle: "What Our Community Says",
       testimonials: [
-        { name: "Jean-Eudes from Cotonou", handle: "@jean.eudes", quote: "Thanks to Coach Romaric, I multiplied my investment in Solana! His analyses are pure gold. 💰", imageId: "user1" },
+        { name: "Jean-Eudes from Cotonou", handle: "@jean.eudes", quote: "Thanks to Coach Romaric, I multiplied my investment in Solana! His analyses are pure gold. ", imageId: "user1" },
         { name: "Aïcha from Lomé", handle: "@aicha.crypto", quote: "The holding course opened my eyes. I no longer FOMO and my portfolio is finally green.", imageId: "user2" },
         { name: "Kevin from Abidjan", handle: "@kevin.invest", quote: "The Telegram group is a gold mine. The alerts on hidden gems are incredible.", imageId: "user3" },
       ],
@@ -366,7 +366,7 @@ export const translations = {
     community: {
       title: "Join the Premium Community",
       subtitle: "Access the elite of crypto information.",
-      description: "Join my exclusive Telegram channels for live analysis, alerts on explosive projects (50x+ potential on Solana/ETH), and 'calls' that have already 100x'd in the past! 💰",
+      description: "Join my exclusive Telegram channels for live analysis, alerts on explosive projects (50x+ potential on Solana/ETH), and 'calls' that have already 100x'd in the past! ",
       pricing: {
         title: "Pricing",
         price: "$50",

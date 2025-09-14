@@ -6,7 +6,7 @@ import { LanguageProvider } from '@/contexts/language-context';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'Romaric Crypto Academy',
+  title: 'Crypto  Rovolution Academy',
   description:
     'Analyses Crypto, Formations Trading & Holding, et Projets Explosifs.',
 };

@@ -31,7 +31,7 @@ export function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center gap-2 font-headline text-xl font-bold">
               <Coins className="h-7 w-7 text-primary" />
-              <span>Romaric Crypto Academy</span>
+              <span>Crypto  Rovolution Academy</span>
             </Link>
             <p className="text-sm text-muted-foreground">{t('mission')}</p>
             <div className="flex space-x-4">
@@ -71,7 +71,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 border-t pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Romaric Crypto Academy. {t('copyright')}</p>
+          <p>&copy; {new Date().getFullYear()} Crypto  Rovolution Academy. {t('copyright')}</p>
         </div>
       </div>
     </footer>

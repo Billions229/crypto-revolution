@@ -76,16 +76,16 @@ export default function Home() {
                 className="mx-auto mb-6 h-36 w-36 rounded-full object-cover shadow-lg"
            />
           <h1 className="font-headline text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl">
-            {t('hero.headline')} <span className="text-primary">💰</span>
+            {t('hero.headline')} <span className="text-primary"></span>
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-muted-foreground">
             {t('hero.subheadline')}
           </p>
-          <div className="mt-10 flex items-center justify-center gap-x-6">
-            <Button asChild size="lg">
+          <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-center sm:gap-x-6">
+            <Button asChild size="lg" className="w-full sm:w-auto">
               <Link href="/courses">{t('hero.cta.courses')}</Link>
             </Button>
-            <Button asChild size="lg" variant="outline">
+            <Button asChild size="lg" variant="outline" className="w-full sm:w-auto">
               <Link href="/community">{t('hero.cta.telegram')}</Link>
             </Button>
           </div>
