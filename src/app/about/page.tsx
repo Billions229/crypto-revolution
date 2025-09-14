@@ -51,18 +51,15 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="md:col-span-2">
-            <div className="sticky top-24">
-                {aboutImage &&
-                    <Image
-                        src={aboutImage.imageUrl}
-                        alt={aboutImage.description}
-                        data-ai-hint={aboutImage.imageHint}
-                        width={600}
-                        height={800}
-                        className="rounded-lg object-cover shadow-2xl"
-                    />
-                }
-            </div>
+      <div className="sticky top-24">
+        <Image
+          src="/image.jpg"
+          alt="Romaric Allagbé"
+          width={600}
+          height={800}
+          className="rounded-lg object-cover shadow-2xl"
+        />
+      </div>
           </div>
         </div>
       </div>

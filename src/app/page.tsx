@@ -67,17 +67,14 @@ export default function Home() {
       {/* Hero Section */}
       <section className="container mx-auto px-4 pt-16 text-center">
         <div className="mx-auto max-w-4xl">
-           {romaricImage && 
-             <Image
-                src={romaricImage.imageUrl}
-                alt={romaricImage.description}
-                data-ai-hint={romaricImage.imageHint}
+           <Image
+                src="/image.jpg"
+                alt="Romaric Allagbé"
                 width={150}
                 height={150}
                 priority
                 className="mx-auto mb-6 h-36 w-36 rounded-full object-cover shadow-lg"
-              />
-           }
+           />
           <h1 className="font-headline text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl">
             {t('hero.headline')} <span className="text-primary">💰</span>
           </h1>
