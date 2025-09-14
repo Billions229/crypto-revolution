@@ -1,0 +1,71 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "romaric-hero",
+      "description": "Professional photo of Romaric Allagbé",
+      "imageUrl": "https://picsum.photos/seed/romaric1/400/400",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "romaric-about",
+      "description": "Another professional photo of Romaric Allagbé for the about page",
+      "imageUrl": "https://picsum.photos/seed/romaric2/600/800",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Avatar for first testimonial",
+      "imageUrl": "https://picsum.photos/seed/user1/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Avatar for second testimonial",
+      "imageUrl": "https://picsum.photos/seed/user2/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Avatar for third testimonial",
+      "imageUrl": "https://picsum.photos/seed/user3/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "car-1",
+      "description": "Rental car 1",
+      "imageUrl": "https://picsum.photos/seed/car1/600/400",
+      "imageHint": "modern car"
+    },
+    {
+      "id": "car-2",
+      "description": "Rental car 2",
+      "imageUrl": "https://picsum.photos/seed/car2/600/400",
+      "imageHint": "suv car"
+    },
+    {
+      "id": "car-3",
+      "description": "Rental car 3",
+      "imageUrl": "https://picsum.photos/seed/car3/600/400",
+      "imageHint": "sedan car"
+    },
+    {
+      "id": "blog-solana",
+      "description": "Image for Solana blog post",
+      "imageUrl": "https://picsum.photos/seed/solana/800/400",
+      "imageHint": "crypto chart"
+    },
+    {
+      "id": "blog-p2p",
+      "description": "Image for P2P blog post",
+      "imageUrl": "https://picsum.photos/seed/p2p/800/400",
+      "imageHint": "secure transaction"
+    },
+    {
+      "id": "blog-eth",
+      "description": "Image for Ethereum blog post",
+      "imageUrl": "https://picsum.photos/seed/eth/800/400",
+      "imageHint": "digital currency"
+    }
+  ]
+}
